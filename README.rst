@@ -11,7 +11,7 @@ You can install python-pushover from Pypi_ with:
 
 .. code-block:: bash
 
-    $ pip install python-pushover
+    $ pip install git+https://github.com/william-davis-dev/python-pushover
 
 Or you can install it directly from GitHub_:
 
